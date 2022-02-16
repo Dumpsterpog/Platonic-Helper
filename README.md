@@ -1,4 +1,4 @@
-Platonic Hlper
+Platonic Helper
 
 
 Written in Javascript using Discord.js
